@@ -755,6 +755,7 @@ CONFIG_DUMP_ALL_STACKS=y
 
 # sdcardfs
 CONFIG_SDCARD_FS=y
+CONFIG_NTFS_FS=y
 
 #
 # Qualcomm Atheros Prima WLAN module
